@@ -183,7 +183,7 @@
 <div class="flex flex-col items-center text-center p-lg bg-background rounded-xl sun-drenched-shadow border border-outline/5">
 <span class="material-symbols-outlined text-secondary text-5xl mb-md" style="font-variation-settings: 'FILL' 1;">verified</span>
 <h3 class="font-headline-sm text-headline-sm text-tertiary mb-sm">Higienis &amp; Food Grade</h3>
-<p class="text-body-lg text-on-surface-variant">Diproses dengan standar higienis, bersertifikat Halal &amp; SPP-IRT.</p>
+<p class="text-body-lg text-on-surface-variant">Diproses dengan standar higienis, bersertifikat Halal &amp; SPP-IRT, SKP.</p>
 </div>
 <div class="flex flex-col items-center text-center p-lg bg-background rounded-xl sun-drenched-shadow border border-outline/5">
 <span class="material-symbols-outlined text-secondary text-5xl mb-md" style="font-variation-settings: 'FILL' 1;">payments</span>
@@ -286,8 +286,6 @@
 <p class="text-body-lg">Ummi-Zee Food adalah usaha rumahan yang bergerak di bidang produksi makanan, khususnya aneka sambal seafood seperti sambal tuna, sambal teri, dan sambal cumi. Berdiri dari kawasan pesisir Cilacap yang kaya hasil laut, Ummi-Zee hadir untuk menghadirkan cita rasa sambal rumahan yang autentik, segar, dan higienis.</p>
 <p>Dengan komitmen pada kualitas, setiap produk diolah menggunakan bahan pilihan, tanpa pengawet, dan diproses secara higienis agar aman dikonsumsi dan tahan lama.</p>
 </div>
-<div class="mt-lg pt-lg border-t border-outline/10 flex items-center gap-md">
-<div class="w-20 h-20 rounded-full overflow-hidden flex-shrink-0 sun-drenched-shadow">
 </div>
 <div>
 <p class="font-headline-sm text-headline-sm text-tertiary">Pemilik Usaha</p>
@@ -337,7 +335,7 @@
 <div class="w-full aspect-[3/4] overflow-hidden rounded-xl bg-white p-3 flex items-center justify-center">
 <img class="max-h-full max-w-full object-contain" src="{{ asset('images/landing/certificates/gmp.jpg') }}" alt="Sertifikat GMP"/>
 </div>
-<p class="font-label-bold text-tertiary">GMP Certified</p>
+<p class="font-label-bold text-tertiary">SKP Certified</p>
 </div>
 <div class="bg-background rounded-2xl p-md sun-drenched-shadow border border-outline/5 flex flex-col items-center text-center gap-sm">
 <div class="w-full aspect-[3/4] overflow-hidden rounded-xl bg-white p-3 flex items-center justify-center">
