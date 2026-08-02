@@ -287,6 +287,7 @@
 <p>Dengan komitmen pada kualitas, setiap produk diolah menggunakan bahan pilihan, tanpa pengawet, dan diproses secara higienis agar aman dikonsumsi dan tahan lama.</p>
 </div>
 <div class="mt-lg pt-lg border-t border-outline/10 flex items-center gap-md">
+<div class="w-20 h-20 rounded-full overflow-hidden flex-shrink-0 sun-drenched-shadow">
 </div>
 <div>
 <p class="font-headline-sm text-headline-sm text-tertiary">Pemilik Usaha</p>
