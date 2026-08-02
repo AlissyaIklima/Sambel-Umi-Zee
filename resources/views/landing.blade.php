@@ -142,7 +142,7 @@
 <!-- Hero Section -->
 <section class="relative min-h-[819px] flex items-center overflow-hidden">
 <div class="absolute inset-0 z-0">
-<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/logo usaha/logo usaha.jpeg') }}')"></div>
+<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/logo-usaha/logo-usaha.jpeg') }}')"></div>
 <div class="absolute inset-0 bg-gradient-to-r from-background/95 via-background/55 to-background/10"></div>
 </div>
 <div class="max-w-[1280px] mx-auto px-margin-mobile md:px-margin-desktop relative z-10 w-full py-xl">
