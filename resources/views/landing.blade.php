@@ -274,7 +274,7 @@
 <div class="flex flex-col md:flex-row items-center gap-xl">
 <div class="w-full md:w-1/2 relative">
 <div class="aspect-[4/5] rounded-2xl overflow-hidden sun-drenched-shadow z-10 relative">
-<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/logo usaha/logo-usaha.jpeg') }}')"></div>
+<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/owner/pemilik-usaha.jpg') }}')"></div>
 </div>
 <div class="absolute -bottom-8 -right-8 w-48 h-48 bg-primary/5 rounded-full blur-3xl"></div>
 <div class="absolute -top-8 -left-8 w-48 h-48 bg-secondary/5 rounded-full blur-3xl"></div>
@@ -288,7 +288,7 @@
 </div>
 <div class="mt-lg pt-lg border-t border-outline/10 flex items-center gap-md">
 <div class="w-20 h-20 rounded-full overflow-hidden flex-shrink-0 sun-drenched-shadow">
-<img class="w-full h-full object-cover" src="{{ asset('images/landing/owner/pemilik-usaha.jpg') }}" alt="Pemilik Usaha" />
+<img class="w-full h-full object-cover" src="{{ asset('images/landing/logo usaha/logo-usaha.jpeg') }}" alt="Logo Sambal Ummi Zee" />
 </div>
 <div>
 <p class="font-headline-sm text-headline-sm text-tertiary">Pemilik Usaha</p>
