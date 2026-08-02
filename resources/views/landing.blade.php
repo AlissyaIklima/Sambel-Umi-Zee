@@ -287,7 +287,7 @@
 <p>Dengan komitmen pada kualitas, setiap produk diolah menggunakan bahan pilihan, tanpa pengawet, dan diproses secara higienis agar aman dikonsumsi dan tahan lama.</p>
 </div>
 <div class="mt-lg pt-lg border-t border-outline/10">
-<h3 class="font-headline-sm text-headline-sm text-tertiary mb-sm">Sejarah Singkat</h3>
+    <h3 class="font-headline-sm text-headline-sm text-tertiary mb-sm">Sejarah Singkat</h3>
 <p class="text-body-lg text-on-surface-variant">Usaha ini berawal pada tahun 2018 dari dapur kecil di Cilacap Selatan. Melihat melimpahnya hasil laut lokal dan tingginya minat masyarakat terhadap sambal seafood, Ummi-Zee mulai memproduksi sambal dengan cita rasa khas rumahan. Berkat dukungan pelanggan dan para nelayan sekitar, usaha ini berkembang menjadi brand lokal yang dipercaya banyak keluarga dan pecinta kuliner.</p>
 </div>
 <div class="mt-lg pt-lg border-t border-outline/10 grid grid-cols-2 gap-md">
