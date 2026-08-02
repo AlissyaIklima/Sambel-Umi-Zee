@@ -204,49 +204,64 @@
 </div>
 <a class="font-label-bold text-tertiary underline underline-offset-8 hover:text-primary transition-colors" href="https://wa.me/6285647862702" target="_blank">Tanya via WhatsApp</a>
 </div>
-<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter">
+<div class="grid grid-cols-1 md:grid-cols-4 gap-md">
 <!-- Sambal Cumi -->
-<div class="group product-hover transition-all duration-500 bg-surface-container rounded-xl overflow-hidden cursor-pointer">
+<div class="group product-hover transition-all duration-500 bg-surface-container rounded-xl overflow-hidden cursor-pointer h-full flex flex-col">
 <div class="h-80 overflow-hidden relative">
 <div class="w-full h-full bg-cover bg-center group-hover:scale-110 transition-transform duration-700" style="background-image: url('{{ asset('images/landing/products/sambal-cumi-full.jpg') }}')"></div>
 <div class="absolute top-4 right-4 bg-primary text-on-primary px-md py-xs font-label-sm rounded-full">Best Seller</div>
 </div>
-<div class="p-lg">
+<div class="p-md flex flex-col justify-between h-full">
 <h4 class="font-headline-sm text-headline-sm text-tertiary mb-sm">Sambal Cumi</h4>
 <div class="flex items-center gap-2 mb-md">
 <span class="bg-secondary-container text-white px-sm py-1 rounded-full text-xs font-bold">PEDAS GURIH</span>
 </div>
-<p class="text-body-lg text-on-surface-variant mb-lg line-clamp-2">Pedas gurih dengan potongan cumi segar, bumbu meresap sempurna ke setiap potongan.</p>
+<p class="text-body-md text-on-surface-variant mb-sm">Pedas gurih dengan potongan cumi segar, bumbu meresap sempurna ke setiap potongan.</p>
 <button type="button" class="block w-full border border-tertiary text-tertiary py-sm font-label-bold rounded-lg group-hover:bg-primary group-hover:text-on-primary group-hover:border-primary transition-all product-detail-button" data-image="{{ asset('images/landing/products/sambal-cumi-full.jpg') }}">Lihat Detail</button>
 </div>
 </div>
 <!-- Sambal Teri -->
-<div class="group product-hover transition-all duration-500 bg-surface-container rounded-xl overflow-hidden cursor-pointer">
+<div class="group product-hover transition-all duration-500 bg-surface-container rounded-xl overflow-hidden cursor-pointer h-full flex flex-col">
 <div class="h-80 overflow-hidden relative">
 <div class="w-full h-full bg-cover bg-center group-hover:scale-110 transition-transform duration-700" style="background-image: url('{{ asset('images/landing/products/sambal-teri-full.jpg') }}')"></div>
 <div class="absolute top-4 right-4 bg-tertiary-container text-on-tertiary px-md py-xs font-label-sm rounded-full">Lombok Hijau</div>
 </div>
-<div class="p-lg">
+<div class="p-md flex flex-col justify-between h-full">
 <h4 class="font-headline-sm text-headline-sm text-tertiary mb-sm">Sambal Teri</h4>
 <div class="flex items-center gap-2 mb-md">
 <span class="bg-secondary-container/10 border border-secondary text-secondary px-sm py-1 rounded-full text-xs font-bold">PEDAS RENYAH</span>
 </div>
-<p class="text-body-lg text-on-surface-variant mb-lg line-clamp-2">Rasa pedas renyah dari teri pilihan, cocok jadi lauk pendamping nasi hangat.</p>
+<p class="text-body-md text-on-surface-variant mb-sm">Rasa pedas renyah dari teri pilihan, cocok jadi lauk pendamping nasi hangat.</p>
 <button type="button" class="block w-full border border-tertiary text-tertiary py-sm font-label-bold rounded-lg group-hover:bg-primary group-hover:text-on-primary group-hover:border-primary transition-all product-detail-button" data-image="{{ asset('images/landing/products/sambal-teri-full.jpg') }}">Lihat Detail</button>
 </div>
 </div>
+<!-- Sambal Saset -->
+<div class="group product-hover transition-all duration-500 bg-surface-container rounded-xl overflow-hidden cursor-pointer h-full flex flex-col">
+<div class="h-80 overflow-hidden relative">
+<div class="w-full h-full bg-cover bg-center group-hover:scale-110 transition-transform duration-700" style="background-image: url('{{ asset('images/landing/products/sambal saset.jpeg') }}')"></div>
+<div class="absolute top-4 right-4 bg-secondary-container text-on-secondary px-md py-xs font-label-sm rounded-full">Praktis</div>
+</div>
+<div class="p-md flex flex-col justify-between h-full">
+<h4 class="font-headline-sm text-headline-sm text-tertiary mb-sm">Sambal Saset</h4>
+<div class="flex items-center gap-2 mb-md">
+<span class="bg-secondary-container/10 border border-secondary text-secondary px-sm py-1 rounded-full text-xs font-bold">MUDAH BAWA</span>
+</div>
+<p class="text-body-md text-on-surface-variant mb-sm">Pilihan sambal praktis dalam kemasan saset, cocok untuk bekal, warung, dan acara sehari-hari.</p>
+<button type="button" class="block w-full border border-tertiary text-tertiary py-sm font-label-bold rounded-lg group-hover:bg-primary group-hover:text-on-primary group-hover:border-primary transition-all product-detail-button" data-image="{{ asset('images/landing/products/sambal saset.jpeg') }}">Lihat Detail</button>
+</div>
+</div>
 <!-- Sambal Tuna -->
-<div class="group product-hover transition-all duration-500 bg-surface-container rounded-xl overflow-hidden cursor-pointer">
+<div class="group product-hover transition-all duration-500 bg-surface-container rounded-xl overflow-hidden cursor-pointer h-full flex flex-col">
 <div class="h-80 overflow-hidden relative">
 <div class="w-full h-full bg-cover bg-center group-hover:scale-110 transition-transform duration-700" style="background-image: url('{{ asset('images/landing/products/sambal-tuna-full.jpg') }}')"></div>
 <div class="absolute top-4 right-4 bg-secondary text-on-secondary px-md py-xs font-label-sm rounded-full">Favorit</div>
 </div>
-<div class="p-lg">
+<div class="p-md flex flex-col justify-between h-full">
 <h4 class="font-headline-sm text-headline-sm text-tertiary mb-sm">Sambal Tuna</h4>
 <div class="flex items-center gap-2 mb-md">
 <span class="bg-secondary-container/10 border border-secondary text-secondary px-sm py-1 rounded-full text-xs font-bold">PEDAS NIKMAT</span>
 </div>
-<p class="text-body-lg text-on-surface-variant mb-lg line-clamp-2">Cita rasa khas tuna laut Cilacap, diproduksi dengan teknologi retort agar tahan lama.</p>
+<p class="text-body-md text-on-surface-variant mb-sm">Cita rasa khas tuna laut Cilacap, diproduksi dengan teknologi retort agar tahan lama.</p>
 <button type="button" class="block w-full border border-tertiary text-tertiary py-sm font-label-bold rounded-lg group-hover:bg-primary group-hover:text-on-primary group-hover:border-primary transition-all product-detail-button" data-image="{{ asset('images/landing/products/sambal-tuna-full.jpg') }}">Lihat Detail</button>
 </div>
 </div>
