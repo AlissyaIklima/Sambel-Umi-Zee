@@ -286,6 +286,7 @@
 <p class="text-body-lg">Ummi-Zee Food adalah usaha rumahan yang bergerak di bidang produksi makanan, khususnya aneka sambal seafood seperti sambal tuna, sambal teri, dan sambal cumi. Berdiri dari kawasan pesisir Cilacap yang kaya hasil laut, Ummi-Zee hadir untuk menghadirkan cita rasa sambal rumahan yang autentik, segar, dan higienis.</p>
 <p>Dengan komitmen pada kualitas, setiap produk diolah menggunakan bahan pilihan, tanpa pengawet, dan diproses secara higienis agar aman dikonsumsi dan tahan lama.</p>
 </div>
+<div class="mt-lg pt-lg border-t border-outline/10 flex items-center gap-md">
 </div>
 <div>
 <p class="font-headline-sm text-headline-sm text-tertiary">Pemilik Usaha</p>
