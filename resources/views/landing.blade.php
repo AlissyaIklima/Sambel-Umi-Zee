@@ -238,7 +238,7 @@
 <!-- Sambal Saset -->
 <div class="group product-hover transition-all duration-500 bg-surface-container rounded-xl overflow-hidden cursor-pointer h-full flex flex-col">
 <div class="h-80 overflow-hidden relative">
-<div class="w-full h-full bg-cover bg-center group-hover:scale-110 transition-transform duration-700" style="background-image: url('{{ asset('images/landing/products/sambal saset.jpeg') }}')"></div>
+<div class="w-full h-full bg-cover bg-center group-hover:scale-110 transition-transform duration-700" style="background-image: url('{{ asset('images/landing/products/sambal-saset.jpeg') }}')"></div>
 <div class="absolute top-4 right-4 bg-secondary-container text-on-secondary px-md py-xs font-label-sm rounded-full">Praktis</div>
 </div>
 <div class="p-md flex flex-col justify-between h-full">
@@ -247,7 +247,7 @@
 <span class="bg-secondary-container/10 border border-secondary text-secondary px-sm py-1 rounded-full text-xs font-bold">MUDAH BAWA</span>
 </div>
 <p class="text-body-md text-on-surface-variant mb-sm">Pilihan sambal praktis dalam kemasan saset, cocok untuk bekal, warung, dan acara sehari-hari.</p>
-<button type="button" class="block w-full border border-tertiary text-tertiary py-sm font-label-bold rounded-lg group-hover:bg-primary group-hover:text-on-primary group-hover:border-primary transition-all product-detail-button" data-image="{{ asset('images/landing/products/sambal saset.jpeg') }}">Lihat Detail</button>
+<button type="button" class="block w-full border border-tertiary text-tertiary py-sm font-label-bold rounded-lg group-hover:bg-primary group-hover:text-on-primary group-hover:border-primary transition-all product-detail-button" data-image="{{ asset('images/landing/products/sambal-saset.jpeg') }}">Lihat Detail</button>
 </div>
 </div>
 <!-- Sambal Tuna -->
@@ -274,7 +274,7 @@
 <div class="flex flex-col md:flex-row items-center gap-xl">
 <div class="w-full md:w-1/2 relative">
 <div class="aspect-[4/5] rounded-2xl overflow-hidden sun-drenched-shadow z-10 relative">
-<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/owner/pemilik-usaha.jpg') }}')"></div>
+<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/logo-usaha/logo-usaha.jpeg') }}')"></div>
 </div>
 <div class="absolute -bottom-8 -right-8 w-48 h-48 bg-primary/5 rounded-full blur-3xl"></div>
 <div class="absolute -top-8 -left-8 w-48 h-48 bg-secondary/5 rounded-full blur-3xl"></div>
@@ -389,7 +389,7 @@
 <span class="material-symbols-outlined text-secondary/20 absolute top-4 right-4 text-6xl" style="font-variation-settings: 'FILL' 1;">format_quote</span>
 <p class="text-body-lg text-on-surface-variant mb-lg relative z-10">"Sambal Tuna-nya benar-benar mengingatkan masakan rumah. Sekarang selalu ada stok di dapur, cocok buat lauk apa saja!"</p>
 <div class="mx-auto w-full aspect-[4/5] overflow-hidden rounded-2xl shadow-sm bg-white border border-outline/10 flex items-center justify-center">
-<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan pelanggan 1.jpeg') }}" alt="Ulasan pelanggan 1"/>
+<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan-pelanggan-1.jpeg') }}" alt="Ulasan pelanggan 1"/>
 </div>
 </div>
 <!-- Testimonial 2 -->
@@ -397,7 +397,7 @@
 <span class="material-symbols-outlined text-secondary/20 absolute top-4 right-4 text-6xl" style="font-variation-settings: 'FILL' 1;">format_quote</span>
 <p class="text-body-lg text-on-surface-variant mb-lg relative z-10">"Pedasnya pas, gak cuma pedas doang tapi gurih. Sambal Teri-nya renyah banget, jadi favorit anak-anak di rumah."</p>
 <div class="mx-auto w-full aspect-[4/5] overflow-hidden rounded-2xl shadow-sm bg-white border border-outline/10 flex items-center justify-center">
-<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan pelanggan 2.jpeg') }}" alt="Ulasan pelanggan 2"/>
+<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan-pelanggan-2.jpeg') }}" alt="Ulasan pelanggan 2"/>
 </div>
 </div>
 <!-- Testimonial 3 -->
@@ -405,7 +405,7 @@
 <span class="material-symbols-outlined text-secondary/20 absolute top-4 right-4 text-6xl" style="font-variation-settings: 'FILL' 1;">format_quote</span>
 <p class="text-body-lg text-on-surface-variant mb-lg relative z-10">"Kemasannya rapi, isinya juga juara. Sambal Cumi-nya empuk dan bumbunya meresap sampai ke dalam, susah cari yang seenak ini."</p>
 <div class="mx-auto w-full aspect-[4/5] overflow-hidden rounded-2xl shadow-sm bg-white border border-outline/10 flex items-center justify-center">
-<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan pelanggan 3.jpeg') }}" alt="Ulasan pelanggan 3"/>
+<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan-pelanggan-3.jpeg') }}" alt="Ulasan pelanggan 3"/>
 </div>
 </div>
 <!-- Testimonial 4 -->
@@ -413,7 +413,7 @@
 <span class="material-symbols-outlined text-secondary/20 absolute top-4 right-4 text-6xl" style="font-variation-settings: 'FILL' 1;">format_quote</span>
 <p class="text-body-lg text-on-surface-variant mb-lg relative z-10">"Rasanya konsisten enak, selalu jadi andalan saat kumpul keluarga. Sambal Ummi Zee selalu nambah selera makan."</p>
 <div class="mx-auto w-full aspect-[4/5] overflow-hidden rounded-2xl shadow-sm bg-white border border-outline/10 flex items-center justify-center">
-<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan pelanggan 4.jpeg') }}" alt="Ulasan pelanggan 4"/>
+<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan-pelanggan-4.jpeg') }}" alt="Ulasan pelanggan 4"/>
 </div>
 </div>
 <!-- Testimonial 5 -->
@@ -421,7 +421,7 @@
 <span class="material-symbols-outlined text-secondary/20 absolute top-4 right-4 text-6xl" style="font-variation-settings: 'FILL' 1;">format_quote</span>
 <p class="text-body-lg text-on-surface-variant mb-lg relative z-10">"Packaging-nya rapi dan aman, pengiriman cepat. Sambalnya tetap lezat sampai sampai di rumah."</p>
 <div class="mx-auto w-full aspect-[4/5] overflow-hidden rounded-2xl shadow-sm bg-white border border-outline/10 flex items-center justify-center">
-<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan pelanggan 5.jpeg') }}" alt="Ulasan pelanggan 5"/>
+<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan-pelanggan-5.jpeg') }}" alt="Ulasan pelanggan 5"/>
 </div>
 </div>
 <!-- Testimonial 6 -->
@@ -429,7 +429,7 @@
 <span class="material-symbols-outlined text-secondary/20 absolute top-4 right-4 text-6xl" style="font-variation-settings: 'FILL' 1;">format_quote</span>
 <p class="text-body-lg text-on-surface-variant mb-lg relative z-10">"Cocok untuk stok harian, rasanya pas untuk lauk apa saja. Sambal Ummi Zee bikin dapur jadi lebih berwarna."</p>
 <div class="mx-auto w-full aspect-[4/5] overflow-hidden rounded-2xl shadow-sm bg-white border border-outline/10 flex items-center justify-center">
-<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan pelanggan 6.jpeg') }}" alt="Ulasan pelanggan 6"/>
+<img class="w-full h-full object-contain" src="{{ asset('images/landing/ulasan pelanggan/ulasan-pelanggan-6.jpeg') }}" alt="Ulasan pelanggan 6"/>
 </div>
 </div>
 </div>
