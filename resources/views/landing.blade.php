@@ -142,7 +142,7 @@
 <!-- Hero Section -->
 <section class="relative min-h-[819px] flex items-center overflow-hidden">
 <div class="absolute inset-0 z-0">
-<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/logo-usaha/logo-usaha.jpeg') }}')"></div>
+<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/logo usaha/logo-usaha.jpeg') }}')"></div>
 <div class="absolute inset-0 bg-gradient-to-r from-background/95 via-background/55 to-background/10"></div>
 </div>
 <div class="max-w-[1280px] mx-auto px-margin-mobile md:px-margin-desktop relative z-10 w-full py-xl">
@@ -274,7 +274,7 @@
 <div class="flex flex-col md:flex-row items-center gap-xl">
 <div class="w-full md:w-1/2 relative">
 <div class="aspect-[4/5] rounded-2xl overflow-hidden sun-drenched-shadow z-10 relative">
-<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/logo-usaha/logo-usaha.jpeg') }}')"></div>
+<div class="w-full h-full bg-cover bg-center" style="background-image: url('{{ asset('images/landing/logo usaha/logo-usaha.jpeg') }}')"></div>
 </div>
 <div class="absolute -bottom-8 -right-8 w-48 h-48 bg-primary/5 rounded-full blur-3xl"></div>
 <div class="absolute -top-8 -left-8 w-48 h-48 bg-secondary/5 rounded-full blur-3xl"></div>
@@ -285,6 +285,15 @@
 <div class="space-y-md text-on-surface-variant">
 <p class="text-body-lg">Ummi-Zee Food adalah usaha rumahan yang bergerak di bidang produksi makanan, khususnya aneka sambal seafood seperti sambal tuna, sambal teri, dan sambal cumi. Berdiri dari kawasan pesisir Cilacap yang kaya hasil laut, Ummi-Zee hadir untuk menghadirkan cita rasa sambal rumahan yang autentik, segar, dan higienis.</p>
 <p>Dengan komitmen pada kualitas, setiap produk diolah menggunakan bahan pilihan, tanpa pengawet, dan diproses secara higienis agar aman dikonsumsi dan tahan lama.</p>
+</div>
+<div class="mt-lg pt-lg border-t border-outline/10 flex items-center gap-md">
+<div class="w-20 h-20 rounded-full overflow-hidden flex-shrink-0 sun-drenched-shadow">
+<img class="w-full h-full object-cover" src="{{ asset('images/landing/owner/pemilik-usaha.jpg') }}" alt="Pemilik Usaha" />
+</div>
+<div>
+<p class="font-headline-sm text-headline-sm text-tertiary">Pemilik Usaha</p>
+<p class="text-on-surface-variant text-body-md">Sambal Ummi Zee</p>
+</div>
 </div>
 <div class="mt-lg pt-lg border-t border-outline/10">
     <h3 class="font-headline-sm text-headline-sm text-tertiary mb-sm">Sejarah Singkat</h3>
